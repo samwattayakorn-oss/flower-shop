@@ -204,7 +204,7 @@ width:40%;
 
 padding:15px;
 
-box-sizing;
+box-sizing:border-box;
 
 }
 
@@ -214,11 +214,11 @@ height:300px;
 
 border:1px solid #ccc;
 
-display;
+display:flex;
 
-justify-content;
+justify-content:center;
 
-align-items;
+align-items:center;
 
 margin-bottom:15px;
 
