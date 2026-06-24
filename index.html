@@ -1,10 +1,3 @@
-
-<!-- ===================================================== -->
-<!-- _Core_Skeleton_ -->
-<!-- Core Skeleton (คอร์ สเก-เล-ตัน) -->
-<!-- โครงกระดูกหลัก -->
-<!-- ===================================================== -->
-
 <!DOCTYPE html>
 
 <html lang="th">
@@ -14,9 +7,9 @@
 <meta charset="UTF-8">
 
 <meta name="viewport"
-content="width=device-width,initial-scale=1.0">
+content="width=device-width, initial-scale=1.0">
 
-<title>Flowershop</title></title>
+<title>Flower Shop</title>
 
 <link rel="stylesheet" href="style.css">
 
@@ -24,46 +17,16 @@ content="width=device-width,initial-scale=1.0">
 
 <body>
 
-<header id="header-module"></header>
-
-<section id="search-module"></section>
-
-<section id="product-module"></section>
-
-<section id="member-module"></section>
-
-<section id="relation-module"></section>
-
-<section id="service-module"></section>
-
-<section id="contact-module"></section>
-
-<footer id="footer-module"></footer>
-
-<script src="main.js"></script>
-
-</body>
-
-</html>
-<!-- ===================================================== -->
-<!-- _Header_Module_ -->
-<!-- Header Module -->
-<!-- โมดูลส่วนหัว -->
-<!-- ===================================================== -->
-
 <header>
 
 <h1>Flower Shop</h1>
 
 <p>
-
 With every sleep and every awakening,
 you'll feel refreshed, as if you're smelling flowers.
-
 </p>
 
 <p>
-
 ทุกๆการหลับและทุกๆการตื่น
 คุณจะรู้สึกสดชื่นเหมือนได้ดมกลิ่นดอกไม้
 </p>
@@ -83,13 +46,8 @@ you'll feel refreshed, as if you're smelling flowers.
 </nav>
 
 </header>
-<!-- ===================================================== -->
-<!-- _Search_Module_ -->
-<!-- Search Module -->
-<!-- โมดูลค้นหา -->
-<!-- ===================================================== -->
 
-<section>
+<section id="search-area">
 
 <h2>ค้นหาสินค้า</h2>
 
@@ -98,11 +56,11 @@ type="text"
 id="search-input"
 placeholder="ค้นหาสินค้า">
 
-<p>
+<button>ค้นหา</button>
 
+<p>
 ควรใส่รายละเอียดอย่างน้อย 2-3 คำ
 เพื่อผลการค้นหาได้ตรงและรวดเร็ว
-
 </p>
 
 <div id="search-result">
@@ -112,309 +70,37 @@ placeholder="ค้นหาสินค้า">
 </div>
 
 </section>
-<!-- ===================================================== -->
-<!-- _Product_Module_ -->
-<!-- Product Module -->
-<!-- โมดูลสินค้า -->
-<!-- ===================================================== -->
 
-<section>
-
-<h2>สินค้า</h2>
-
-<div id="product-preview">
-
-</div>
-
-<div id="product-detail">
-
-</div>
-
-</section>
-<!-- ===================================================== -->
-<!-- _Product_Tree_Module_ -->
-<!-- Product Tree Module -->
-<!-- ===================================================== -->
-
-<section>
-
-<ul>
-
-<li>Supplier</li>
-
-<li>Product</li>
-
-<li>Category</li>
-
-<li>Type</li>
-
-<li>Size</li>
-
-<li>Material</li>
-
-<li>Color</li>
-
-<li>Price</li>
-
-<li>Shipping</li>
-
-<li>Status</li>
-
-</ul>
-
-</section>
-<!-- ===================================================== -->
-<!-- _Member_Module_ -->
-<!-- Member Module -->
-<!-- ===================================================== -->
-
-<section>
-
-<h2>ระบบสมาชิก</h2>
-
-<button>
-
-เข้าสู่ระบบ
-
-</button>
-
-<button>
-
-สมัครสมาชิก
-
-</button>
-
-</section>
-<!-- ===================================================== -->
-<!-- _Cart_Module_ -->
-<!-- Cart Module -->
-<!-- ===================================================== -->
-
-<section>
-
-<button>
-
-ตะกร้าสินค้า
-
-</button>
-
-<button>
-
-ซื้อเลย
-
-</button>
-
-</section>
-<!-- ===================================================== -->
-<!-- _Relation_Module_ -->
-<!-- Relation Module -->
-<!-- ===================================================== -->
-
-<section>
-
-<h2>
-
-Relation Engine
-
-</h2>
-
-<div id="keyword-data">
-
-</div>
-
-<div id="meaning-data">
-
-</div>
-
-<div id="relation-data">
-
-</div>
-
-<div id="result-data">
-
-</div>
-
-</section>
-<!-- ===================================================== -->
-<!-- _Supplier_Module_ -->
-<!-- Supplier Module -->
-<!-- ===================================================== -->
-
-<section>
-
-<h2>
-
-Supplier
-
-</h2>
-
-<div id="supplier-data">
-
-</div>
-
-<div id="shipping-data">
-
-</div>
-
-<div id="profit-data">
-
-</div>
-
-</section>
-<!-- ===================================================== -->
-<!-- _Contact_Module_ -->
-<!-- Contact Module -->
-<!-- ===================================================== -->
-
-<section>
-
-<h2>ติดต่อ</h2>
-
-<p>Facebook</p>
-
-<p>Line</p>
-
-<p>Phone</p>
-
-</section>
-<!-- ===================================================== -->
-<!-- _Footer_Module_ -->
-<!-- Footer Module -->
-<!-- ===================================================== -->
-
-<footer>
-
-<p>
-
-Sam Dream
-
-</p>
-
-<p>
-
-Version 1.0
-
-</p>
-
-</footer>
-<!-- ===================================================== -->
-<!-- _Display_Layout_Module_ -->
-<!-- Display Layout Module -->
-<!-- โมดูลจัดวางหน้าเว็บ -->
-<!-- ===================================================== -->
-
-<main>
-
-<!-- Search Area -->
-<section id="search-area"></section>
-
-<!-- Product Showcase -->
-<section id="showcase-area"></section>
-
-<!-- Main Content -->
-
-<div class="main-layout">
-
-<!-- Product Tree -->
-
-<aside id="product-tree-area"></aside>
-
-<!-- Product Preview -->
-
-<section id="product-preview-area"></section>
-
-<!-- Product Detail -->
-
-<section id="product-detail-area"></section>
-
-</div>
-
-<!-- Service -->
-
-<section id="service-area"></section>
-
-<!-- Contact -->
-
-<section id="contact-area"></section>
-
-</main>
-
-<section id="search-area">
-
-<h2>
-
-ค้นหาสินค้า
-
-</h2>
-
-<input
-
-type="text"
-
-id="search-input"
-
-placeholder="ค้นหาสินค้า"
-
->
-
-<button>
-
-ค้นหา
-
-</button>
-
-<p>
-
-ควรใส่รายละเอียดอย่างน้อย 2-3 คำ
-เพื่อผลการค้นหาได้ตรงและรวดเร็ว
-
-</p>
-
-<div id="search-result">
-
-</div>
-
-</section>
 <section id="showcase-area">
 
-<h2>
-
-Flower Good for The Future
-
-</h2>
+<h2>Flower Good for The Future</h2>
 
 <marquee>
 
-ทุกๆการหลับและทุกๆการตื่นคุณจะรู้สึกสดชื่นเหมือนได้ดมกลิ่นดอกไม้
-สมัครสมาชิกเพื่อรับสิทธิพิเศษ |
-สินค้าใหม่กำลังทยอยเพิ่มเข้าสู่ระบบ
+ทุกๆการหลับและทุกๆการตื่นคุณจะรู้สึกสดชื่นเหมือนได้ดมกลิ่นดอกไม้ |สมัครสมาชิกเพื่อรับสิทธิพิเศษ |สินค้าใหม่กำลังทยอยเพิ่มเข้าสู่ระบบ
 
 </marquee>
 
 <div class="showcase-grid">
 
-<div class="show-item"></div>
-
-<div class="show-item"></div>
-
-<div class="show-item"></div>
-
-<div class="show-item"></div>
-
-<div class="show-item"></div>
-
-<div class="show-item"></div>
+<div class="show-item">สินค้าแนะนำ</div>
+<div class="show-item">สินค้าแนะนำ</div>
+<div class="show-item">สินค้าแนะนำ</div>
+<div class="show-item">สินค้าแนะนำ</div>
+<div class="show-item">สินค้าแนะนำ</div>
+<div class="show-item">สินค้าแนะนำ</div>
 
 </div>
 
 </section>
+
+<main>
+
+<div class="main-layout">
+
 <aside id="product-tree-area">
 
-<h3>
-
-สินค้า
-
-</h3>
+<h3>สินค้า</h3>
 
 <ul>
 
@@ -435,62 +121,27 @@ Flower Good for The Future
 </ul>
 
 </aside>
+
 <section id="product-preview-area">
 
-<h3>
-
-ตัวอย่างสินค้า
-
-</h3>
+<h3>ตัวอย่างสินค้า</h3>
 
 <div class="preview-grid">
 
-<div class="preview-box">
-
-รูปสินค้า
-
-</div>
-
-<div class="preview-box">
-
-รูปสินค้า
-
-</div>
-
-<div class="preview-box">
-
-รูปสินค้า
-
-</div>
-
-<div class="preview-box">
-
-รูปสินค้า
-
-</div>
-
-<div class="preview-box">
-
-รูปสินค้า
-
-</div>
-
-<div class="preview-box">
-
-รูปสินค้า
-
-</div>
+<div class="preview-box">รูปสินค้า</div>
+<div class="preview-box">รูปสินค้า</div>
+<div class="preview-box">รูปสินค้า</div>
+<div class="preview-box">รูปสินค้า</div>
+<div class="preview-box">รูปสินค้า</div>
+<div class="preview-box">รูปสินค้า</div>
 
 </div>
 
 </section>
+
 <section id="product-detail-area">
 
-<h3>
-
-รายละเอียดสินค้า
-
-</h3>
+<h3>รายละเอียดสินค้า</h3>
 
 <div id="main-product-image">
 
@@ -500,84 +151,84 @@ Flower Good for The Future
 
 <div id="product-info">
 
-ชื่อสินค้า
-
-ประเภท
-
-ขนาด
-
-วัสดุ
-
-สี
-
-ราคา
-
-สถานะสินค้า
-
-ค่าส่ง
+ชื่อสินค้า<br>ประเภท<br>ขนาด<br>วัสดุ<br>สี<br>ราคา<br>สถานะสินค้า<br>ค่าส่ง
 
 </div>
 
-<button>
+<button>ตะกร้า</button>
 
-ตะกร้า
-
-</button>
-
-<button>
-
-ซื้อเลย
-
-</button>
+<button>ซื้อเลย</button>
 
 </section>
+
+</div>
+
+</main>
+
 <section id="member-area">
 
-<h3>
+<h3>สมาชิก</h3>
 
-สมาชิก
+<button>เข้าสู่ระบบ</button>
 
-</h3>
-
-<button>
-
-เข้าสู่ระบบ
-
-</button>
-
-<button>
-
-สมัครสมาชิก
-
-</button>
+<button>สมัครสมาชิก</button>
 
 <div>
 
-สิทธิพิเศษสมาชิก
-
-รับส่วนลด 1-5%
-
-สะสมรายการโปรด
-
-บันทึกตะกร้าถาวร
-
-ติดตามสถานะสินค้า
+สิทธิพิเศษสมาชิก<br>รับส่วนลด 1-5%<br>สะสมรายการโปรด<br>บันทึกตะกร้าถาวร<br>ติดตามสถานะสินค้า
 
 </div>
 
 </section>
+
+<section id="relation-area">
+
+<h3>Relation Engine</h3>
+
+<div id="keyword-data"></div>
+
+<div id="meaning-data"></div>
+
+<div id="relation-data"></div>
+
+<div id="result-data"></div>
+
+</section>
+
+<section id="supplier-area">
+
+<h3>Supplier</h3>
+
+<div id="supplier-data"></div>
+
+<div id="shipping-data"></div>
+
+<div id="profit-data"></div>
+
+</section>
+
 <section id="contact-area">
 
-<h3>
-
-ติดต่อ
-
-</h3>
+<h3>ติดต่อ</h3>
 
 <p>Facebook</p>
 
 <p>Line</p>
 
-<p>โทรศัพท์</p>
+<p>Phone</p>
 
 </section>
+
+<footer>
+
+<p>Flower Shop</p>
+
+<p>Version 1.0</p>
+
+</footer>
+
+<script src="main.js"></script>
+
+</body>
+
+</html>
