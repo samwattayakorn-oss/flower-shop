@@ -96,15 +96,15 @@ padding:20px;
 
 background:#eef6ff;
 
-text-align;
+text-align:center
 
 }
 
 .showcase-grid{
 
-display;
+display:grid;
 
-grid-template-columns(3,1fr);
+grid-template-columns:repeat(3,1fr);
 
 gap:15px;
 
