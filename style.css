@@ -172,7 +172,7 @@ box-sizing:border-box;
 
 .preview-grid{
 
-display:flex;
+display:gird;
 
 grid-template-columns:repeat(2,1fr);
 
@@ -294,7 +294,7 @@ background:#87ceeb;
 
 padding:20px;
 
-text-align;
+text-align:center;
 
 margin-top:20px;
 
