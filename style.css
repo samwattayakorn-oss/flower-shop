@@ -1,6 +1,6 @@
-/* ===================================================== */
-/* _Global_ */
-/* ===================================================== */
+/* ===================================================== // Flower Shop V1 Final // style.css // ===================================================== */
+
+/* ---------- Global ---------- */
 
 body{
 
@@ -8,16 +8,15 @@ margin:0;
 
 padding:0;
 
-font-family:Arial,sans-serif;
+font-family,sans-serif;
 
 background:#f5f9ff;
 
+color:#333;
+
 }
 
-
-/* ===================================================== */
-/* _Header_ */
-/* ===================================================== */
+/* ---------- Header ---------- */
 
 header{
 
@@ -25,81 +24,141 @@ background:#87ceeb;
 
 padding:20px;
 
-text-align:center;
+text-align;
 
 }
 
+header h1{
 
-/* ===================================================== */
-/* _Search_ */
-/* ===================================================== */
+margin:0;
+
+font-size:40px;
+
+}
+
+header p{
+
+margin:10px 0;
+
+}
+
+nav{
+
+margin-top:15px;
+
+}
+
+nav a{
+
+margin:0 10px;
+
+text-decoration;
+
+color:#000;
+
+font-weight;
+
+}
+
+/* ---------- Search ---------- */
 
 #search-area{
 
 padding:20px;
 
-text-align:center;
+background;
 
-background:white;
+text-align;
 
 }
 
+#search-input{
 
-/* ===================================================== */
-/* _Showcase_ */
-/* ===================================================== */
+width:60%;
+
+padding:10px;
+
+}
+
+#search-area button{
+
+padding:10px 20px;
+
+margin-left:10px;
+
+}
+
+/* ---------- Showcase ---------- */
 
 #showcase-area{
 
-height:300px;
+padding:20px;
 
-background-image:
-linear-gradient(
-90deg,
-#ffff99 1px,
-transparent 1px
-),
-linear-gradient(
-#ffff99 1px,
-transparent 1px
-);
+background:#eef6ff;
 
-background-size:20px 20px;
+text-align;
 
 }
 
+.showcase-grid{
 
-/* ===================================================== */
-/* _Main_ */
-/* ===================================================== */
+display;
+
+grid-template-columns(3,1fr);
+
+gap:15px;
+
+margin-top:20px;
+
+}
+
+.show-item{
+
+height:120px;
+
+background;
+
+border:1px solid #ccc;
+
+display;
+
+justify-content;
+
+align-items;
+
+}
+
+/* ---------- Main Layout ---------- */
 
 .main-layout{
 
-display:flex;
+display;
 
 min-height:600px;
 
 }
 
-
-/* ===================================================== */
-/* _Product_Tree_ */
-/* ===================================================== */
+/* ---------- Product Tree ---------- */
 
 #product-tree-area{
 
 width:20%;
 
+background:#eef6ff;
+
 padding:15px;
 
-background:#eef6ff;
+box-sizing;
 
 }
 
+#product-tree-area ul{
 
-/* ===================================================== */
-/* _Product_Preview_ */
-/* ===================================================== */
+padding-left:20px;
+
+}
+
+/* ---------- Product Preview ---------- */
 
 #product-preview-area{
 
@@ -107,12 +166,37 @@ width:40%;
 
 padding:15px;
 
+box-sizing;
+
 }
 
+.preview-grid{
 
-/* ===================================================== */
-/* _Product_Detail_ */
-/* ===================================================== */
+display;
+
+grid-template-columns(2,1fr);
+
+gap:10px;
+
+}
+
+.preview-box{
+
+height:150px;
+
+border:1px solid #ccc;
+
+display;
+
+justify-content;
+
+align-items;
+
+background;
+
+}
+
+/* ---------- Product Detail ---------- */
 
 #product-detail-area{
 
@@ -120,12 +204,89 @@ width:40%;
 
 padding:15px;
 
+box-sizing;
+
 }
 
+#main-product-image{
 
-/* ===================================================== */
-/* _Footer_ */
-/* ===================================================== */
+height:300px;
+
+border:1px solid #ccc;
+
+display;
+
+justify-content;
+
+align-items;
+
+margin-bottom:15px;
+
+background;
+
+}
+
+#product-info{
+
+line-height:2;
+
+margin-bottom:20px;
+
+}
+
+/* ---------- Buttons ---------- */
+
+button{
+
+padding:10px 20px;
+
+margin:5px;
+
+cursor;
+
+}
+
+/* ---------- Member ---------- */
+
+#member-area{
+
+padding:20px;
+
+background;
+
+}
+
+/* ---------- Relation ---------- */
+
+#relation-area{
+
+padding:20px;
+
+background:#eef6ff;
+
+}
+
+/* ---------- Supplier ---------- */
+
+#supplier-area{
+
+padding:20px;
+
+background;
+
+}
+
+/* ---------- Contact ---------- */
+
+#contact-area{
+
+padding:20px;
+
+background:#eef6ff;
+
+}
+
+/* ---------- Footer ---------- */
 
 footer{
 
@@ -133,6 +294,8 @@ background:#87ceeb;
 
 padding:20px;
 
-text-align:center;
+text-align;
+
+margin-top:20px;
 
 }
