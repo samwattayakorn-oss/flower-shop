@@ -1,41 +1,585 @@
+
+<!-- ===================================================== -->
+<!-- _Core_Skeleton_ -->
+<!-- Core Skeleton (คอร์ สเก-เล-ตัน) -->
+<!-- โครงกระดูกหลัก -->
+<!-- ===================================================== -->
+
 <!DOCTYPE html>
-<html lang="en">
+
+<html lang="th">
+
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Flower</title>
+<meta name="viewport"
+content="width=device-width,initial-scale=1.0">
 
-<style>
+<title>Sam Dream</title>
 
-body{
-font-family:Arial,sans-serif;
-text-align:center;
-padding:50px;
-background:#fdfdfd;
-}
-
-h1{
-font-size:48px;
-}
-
-.slogan{
-font-size:20px;
-max-width:800px;
-margin:auto;
-}
-
-</style>
+<link rel="stylesheet" href="style.css">
 
 </head>
 
 <body>
 
-<h1>Flower</h1>
+<header id="header-module"></header>
 
-<p class="slogan">
-Every sleep and every awakening is as refreshing as smelling flowers.
-</p>
+<section id="search-module"></section>
+
+<section id="product-module"></section>
+
+<section id="member-module"></section>
+
+<section id="relation-module"></section>
+
+<section id="service-module"></section>
+
+<section id="contact-module"></section>
+
+<footer id="footer-module"></footer>
+
+<script src="main.js"></script>
 
 </body>
+
 </html>
+<!-- ===================================================== -->
+<!-- _Header_Module_ -->
+<!-- Header Module -->
+<!-- โมดูลส่วนหัว -->
+<!-- ===================================================== -->
+
+<header>
+
+<h1>Sam Dream</h1>
+
+<p>
+
+Everything that exists
+in your dreams
+can become reality.
+
+</p>
+
+<p>
+
+ทุกสรรพสิ่งที่มีอยู่ในความฝันของคุณ
+สามารถกลายเป็นความจริงได้
+
+</p>
+
+<nav>
+
+<a href="#">หน้าแรก</a>
+
+<a href="#">สินค้า</a>
+
+<a href="#">บริการ</a>
+
+<a href="#">สมาชิก</a>
+
+<a href="#">ติดต่อ</a>
+
+</nav>
+
+</header>
+<!-- ===================================================== -->
+<!-- _Search_Module_ -->
+<!-- Search Module -->
+<!-- โมดูลค้นหา -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>ค้นหาสินค้า</h2>
+
+<input
+type="text"
+id="search-input"
+placeholder="ค้นหาสินค้า">
+
+<p>
+
+ควรใส่รายละเอียดอย่างน้อย 2-3 คำ
+เพื่อผลการค้นหาได้ตรงและรวดเร็ว
+
+</p>
+
+<div id="search-result">
+
+ผลการค้นหาจะแสดงที่นี่
+
+</div>
+
+</section>
+<!-- ===================================================== -->
+<!-- _Product_Module_ -->
+<!-- Product Module -->
+<!-- โมดูลสินค้า -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>สินค้า</h2>
+
+<div id="product-preview">
+
+</div>
+
+<div id="product-detail">
+
+</div>
+
+</section>
+<!-- ===================================================== -->
+<!-- _Product_Tree_Module_ -->
+<!-- Product Tree Module -->
+<!-- ===================================================== -->
+
+<section>
+
+<ul>
+
+<li>Supplier</li>
+
+<li>Product</li>
+
+<li>Category</li>
+
+<li>Type</li>
+
+<li>Size</li>
+
+<li>Material</li>
+
+<li>Color</li>
+
+<li>Price</li>
+
+<li>Shipping</li>
+
+<li>Status</li>
+
+</ul>
+
+</section>
+<!-- ===================================================== -->
+<!-- _Member_Module_ -->
+<!-- Member Module -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>ระบบสมาชิก</h2>
+
+<button>
+
+เข้าสู่ระบบ
+
+</button>
+
+<button>
+
+สมัครสมาชิก
+
+</button>
+
+</section>
+<!-- ===================================================== -->
+<!-- _Cart_Module_ -->
+<!-- Cart Module -->
+<!-- ===================================================== -->
+
+<section>
+
+<button>
+
+ตะกร้าสินค้า
+
+</button>
+
+<button>
+
+ซื้อเลย
+
+</button>
+
+</section>
+<!-- ===================================================== -->
+<!-- _Relation_Module_ -->
+<!-- Relation Module -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>
+
+Relation Engine
+
+</h2>
+
+<div id="keyword-data">
+
+</div>
+
+<div id="meaning-data">
+
+</div>
+
+<div id="relation-data">
+
+</div>
+
+<div id="result-data">
+
+</div>
+
+</section>
+<!-- ===================================================== -->
+<!-- _Supplier_Module_ -->
+<!-- Supplier Module -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>
+
+Supplier
+
+</h2>
+
+<div id="supplier-data">
+
+</div>
+
+<div id="shipping-data">
+
+</div>
+
+<div id="profit-data">
+
+</div>
+
+</section>
+<!-- ===================================================== -->
+<!-- _Contact_Module_ -->
+<!-- Contact Module -->
+<!-- ===================================================== -->
+
+<section>
+
+<h2>ติดต่อ</h2>
+
+<p>Facebook</p>
+
+<p>Line</p>
+
+<p>Phone</p>
+
+</section>
+<!-- ===================================================== -->
+<!-- _Footer_Module_ -->
+<!-- Footer Module -->
+<!-- ===================================================== -->
+
+<footer>
+
+<p>
+
+Sam Dream
+
+</p>
+
+<p>
+
+Version 1.0
+
+</p>
+
+</footer>
+<!-- ===================================================== -->
+<!-- _Display_Layout_Module_ -->
+<!-- Display Layout Module -->
+<!-- โมดูลจัดวางหน้าเว็บ -->
+<!-- ===================================================== -->
+
+<main>
+
+<!-- Search Area -->
+<section id="search-area"></section>
+
+<!-- Product Showcase -->
+<section id="showcase-area"></section>
+
+<!-- Main Content -->
+
+<div class="main-layout">
+
+<!-- Product Tree -->
+
+<aside id="product-tree-area"></aside>
+
+<!-- Product Preview -->
+
+<section id="product-preview-area"></section>
+
+<!-- Product Detail -->
+
+<section id="product-detail-area"></section>
+
+</div>
+
+<!-- Service -->
+
+<section id="service-area"></section>
+
+<!-- Contact -->
+
+<section id="contact-area"></section>
+
+</main>
+
+<section id="search-area">
+
+<h2>
+
+ค้นหาสินค้า
+
+</h2>
+
+<input
+
+type="text"
+
+id="search-input"
+
+placeholder="ค้นหาสินค้า"
+
+>
+
+<button>
+
+ค้นหา
+
+</button>
+
+<p>
+
+ควรใส่รายละเอียดอย่างน้อย 2-3 คำ
+เพื่อผลการค้นหาได้ตรงและรวดเร็ว
+
+</p>
+
+<div id="search-result">
+
+</div>
+
+</section>
+<section id="showcase-area">
+
+<h2>
+
+Flower Good The Future
+
+</h2>
+
+<marquee>
+
+ทุกสรรพสิ่งที่มีอยู่ในความฝันของคุณสามารถกลายเป็นความจริงได้ |
+สมัครสมาชิกเพื่อรับสิทธิพิเศษ |
+สินค้าใหม่กำลังทยอยเพิ่มเข้าสู่ระบบ
+
+</marquee>
+
+<div class="showcase-grid">
+
+<div class="show-item"></div>
+
+<div class="show-item"></div>
+
+<div class="show-item"></div>
+
+<div class="show-item"></div>
+
+<div class="show-item"></div>
+
+<div class="show-item"></div>
+
+</div>
+
+</section>
+<aside id="product-tree-area">
+
+<h3>
+
+สินค้า
+
+</h3>
+
+<ul>
+
+<li>หมอน</li>
+
+<li>ที่นอน</li>
+
+<li>ผ้าห่ม</li>
+
+<li>มุ้ง</li>
+
+<li>ปลอกหมอน</li>
+
+<li>ผ้าปู</li>
+
+<li>ผลิตภัณฑ์ที่จะเริ่มผลิต</li>
+
+</ul>
+
+</aside>
+<section id="product-preview-area">
+
+<h3>
+
+ตัวอย่างสินค้า
+
+</h3>
+
+<div class="preview-grid">
+
+<div class="preview-box">
+
+รูปสินค้า
+
+</div>
+
+<div class="preview-box">
+
+รูปสินค้า
+
+</div>
+
+<div class="preview-box">
+
+รูปสินค้า
+
+</div>
+
+<div class="preview-box">
+
+รูปสินค้า
+
+</div>
+
+<div class="preview-box">
+
+รูปสินค้า
+
+</div>
+
+<div class="preview-box">
+
+รูปสินค้า
+
+</div>
+
+</div>
+
+</section>
+<section id="product-detail-area">
+
+<h3>
+
+รายละเอียดสินค้า
+
+</h3>
+
+<div id="main-product-image">
+
+รูปสินค้าใหญ่
+
+</div>
+
+<div id="product-info">
+
+ชื่อสินค้า
+
+ประเภท
+
+ขนาด
+
+วัสดุ
+
+สี
+
+ราคา
+
+สถานะสินค้า
+
+ค่าส่ง
+
+</div>
+
+<button>
+
+ตะกร้า
+
+</button>
+
+<button>
+
+ซื้อเลย
+
+</button>
+
+</section>
+<section id="member-area">
+
+<h3>
+
+สมาชิก
+
+</h3>
+
+<button>
+
+เข้าสู่ระบบ
+
+</button>
+
+<button>
+
+สมัครสมาชิก
+
+</button>
+
+<div>
+
+สิทธิพิเศษสมาชิก
+
+รับส่วนลด 1-5%
+
+สะสมรายการโปรด
+
+บันทึกตะกร้าถาวร
+
+ติดตามสถานะสินค้า
+
+</div>
+
+</section>
+<section id="contact-area">
+
+<h3>
+
+ติดต่อ
+
+</h3>
+
+<p>Facebook</p>
+
+<p>Line</p>
+
+<p>โทรศัพท์</p>
+
+</section>
