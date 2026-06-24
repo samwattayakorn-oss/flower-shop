@@ -166,13 +166,13 @@ width:40%;
 
 padding:15px;
 
-box-sizing;
+box-sizing:border-box;
 
 }
 
 .preview-grid{
 
-display;
+display:flex;
 
 grid-template-columns(2,1fr);
 
