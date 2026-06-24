@@ -24,7 +24,7 @@ background:#87ceeb;
 
 padding:20px;
 
-text-align;
+text-align:center;
 
 }
 
@@ -52,7 +52,7 @@ nav a{
 
 margin:0 10px;
 
-text-decoration;
+text-decoration:none;
 
 color:#000;
 
@@ -66,9 +66,9 @@ font-weight;
 
 padding:20px;
 
-background;
+background:white;
 
-text-align;
+text-align:center;
 
 }
 
@@ -96,7 +96,7 @@ padding:20px;
 
 background:#eef6ff;
 
-text-align:center
+text-align:center;
 
 }
 
@@ -116,15 +116,15 @@ margin-top:20px;
 
 height:120px;
 
-background;
+background:white;
 
 border:1px solid #ccc;
 
-display;
+display:flex;
 
-justify-content;
+justify-content:center;
 
-align-items;
+align-items:center;
 
 }
 
@@ -132,7 +132,7 @@ align-items;
 
 .main-layout{
 
-display;
+display:flex;
 
 min-height:600px;
 
@@ -148,7 +148,7 @@ background:#eef6ff;
 
 padding:15px;
 
-box-sizing;
+box-sizing:border-box;
 
 }
 
