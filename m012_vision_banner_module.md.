@@ -1,0 +1,93 @@
+=====================================================
+
+M012_Vision_Banner_Module
+
+Vision Banner Module
+
+โมดูลแบนเนอร์วิสัยทัศน์
+
+=====================================================
+
+Module ID
+
+M012
+
+Module Name
+
+Vision Banner Module
+
+Purpose
+
+แสดงวิสัยทัศน์ของโครงการผ่าน Banner และ Animation
+
+Meaning
+
+Vision Banner คือ สื่อที่สื่อสารแนวคิดหลักของระบบ
+
+Interpretation
+
+Image
+
+Video
+
+Animation
+
+Loop Banner
+
+Hero Banner
+
+Condition
+
+ต้องแสดงผลได้ต่อเนื่อง
+
+รองรับ Loop
+
+รองรับ Responsive
+
+Relation
+
+M010
+
+M011
+
+M005
+
+Example
+
+Flower Logo Animation
+
+Vision Banner Animation
+
+Input
+
+Media Files
+
+Vision Text
+
+Process
+
+Load Media
+
+Loop Animation
+
+Display Vision
+
+Output
+
+Vision Presentation
+
+Dependency
+
+M010
+
+M011
+
+M006
+
+M007
+
+M008
+
+Version
+
+1.0
