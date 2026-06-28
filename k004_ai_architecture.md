@@ -66,6 +66,20 @@ Database
 
 Human
 
+====== Example ======
+
+Chat AI
+
+Analysis AI
+
+Vision AI
+
+Automation AI
+
+Knowledge AI
+
+Management AI
+
 ====== Scope ======
 
 อธิบายสถาปัตยกรรมการทำงานของ AI
