@@ -6,7 +6,7 @@ Version 1.0
 
 Architecture
 
-☐ K001 Website Architecture
+/ K001 Website Architecture
 
 ☐ K002 Module Architecture
 
