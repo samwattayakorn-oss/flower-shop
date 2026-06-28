@@ -2,15 +2,15 @@ K015_Decision_Theory.md
 
 Decision Theory
 
-Purpose
+====== Purpose ======
 
 กำหนดหลักการตัดสินใจ
 
-Core Meaning
+====== Core Meaning ======
 
 Decision คือการเลือกผลลัพธ์หนึ่งภายใต้เงื่อนไขและความหมายที่มีอยู่
 
-Principle
+====== Principle ======
 
 Knowledge
 
@@ -30,7 +30,7 @@ Decision
 
 Action
 
-Relation
+====== Relation ======
 
 AI
 
@@ -38,11 +38,11 @@ Human
 
 System
 
-Future Expansion
+====== Future Expansion ======
 
 Autonomous Decision
 
-Reference
+====== Reference ======
 
 U000
 
@@ -50,4 +50,5 @@ U002
 
 U006
 
-Version 1.0
+====== Version ======
+1.0
