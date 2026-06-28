@@ -62,7 +62,7 @@ Communication ต้องเป็นไปตามมาตรฐาน UKS
 
 รองรับการสื่อสาร
 
-Human ↔ Website
+user↔ Website
 
 Website ↔ AI
 
