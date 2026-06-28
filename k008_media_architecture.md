@@ -62,6 +62,22 @@ AI
 
 Knowledge Base
 
+====== Example ======
+
+Logo
+
+Product Image
+
+Banner
+
+Video
+
+Audio
+
+PDF
+
+3D Model
+
 ====== Scope ======
 
 กำหนดวิธีจัดเก็บ อ้างอิง และเรียกใช้งานไฟล์
