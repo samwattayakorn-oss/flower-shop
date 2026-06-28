@@ -1,16 +1,16 @@
 K003_Page_Architecture.md
 
 Page Architecture
---------------------------
-Purpose
+
+====== Purpose ======
 
 กำหนดมาตรฐานของหน้าเว็บไซต์
-------------------------
-Core Meaning
+
+====== Core Meaning ======
 
 Page คือการรวม Module หลายตัวเพื่อสร้างหน้าที่สมบูรณ์
--------------------------
-Structure
+
+====== Structure ======
 
 Header
 
@@ -25,24 +25,24 @@ Module
 ↓
 
 Footer
------------------------------
-Relation
+
+====== Relation ======
 
 Page ใช้ Module
 
 Module ใช้ Library
 
 Library ใช้ Knowledge
-----------------------------
-Scope
+
+====== Scope ======
 
 อธิบายเฉพาะโครงสร้างของหน้าเว็บ
-----------------------------
-Future Expansion
+
+====== Future Expansion ======
 
 รองรับ Website ทุกประเภท
-----------------------------
-Reference
+
+====== Reference ======
 
 U000
 
@@ -51,5 +51,6 @@ U001
 U002
 
 U003
-----------------------------
-Version 1.0
+
+====== Version ======
+1.0
