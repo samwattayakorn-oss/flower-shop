@@ -2,15 +2,15 @@ K008_Media_Architecture.md
 
 Media Architecture
 
-Purpose
+====== Purpose ======
 
 กำหนดมาตรฐานของไฟล์สื่อ
 
-Core Meaning
+====== Core Meaning ======
 
 Media คือข้อมูลที่ใช้ในการสื่อสารผ่านภาพ เสียง วิดีโอ และไฟล์ประเภทต่าง ๆ
 
-Structure
+====== Structure ======
 
 Media
 
@@ -28,7 +28,7 @@ Document
 
 3D
 
-Relation
+====== Relation ======
 
 Media เชื่อมกับ
 
@@ -42,11 +42,11 @@ AI
 
 Knowledge Base
 
-Scope
+====== Scope ======
 
 กำหนดวิธีจัดเก็บ อ้างอิง และเรียกใช้งานไฟล์
 
-Future Expansion
+====== Future Expansion ======
 
 รองรับ CDN
 
@@ -54,7 +54,7 @@ Streaming
 
 AI Generated Media
 
-Reference
+====== Reference ======
 
 U000
 
@@ -62,4 +62,5 @@ U001
 
 U002
 
-Version 1.0
+====== Version ======
+1.0
