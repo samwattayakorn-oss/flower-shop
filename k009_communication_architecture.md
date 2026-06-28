@@ -72,6 +72,20 @@ Website ↔ Database
 
 Module ↔ Module
 
+====== Example ======
+
+REST API
+
+Webhook
+
+AI to AI
+
+Website to Database
+
+Module Communication
+
+Human to AI
+
 ====== Scope ======
 
 กำหนดรูปแบบการสื่อสารทั้งหมด
