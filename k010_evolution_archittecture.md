@@ -102,6 +102,18 @@ Adaptive System
 
 Continuous Evolution
 
+====== Dependency ======
+
+U000_UKS_Core
+
+U001_UKS_Architecture
+
+U002_UKS_Template
+
+K016_Feedback_Theory
+
+K020_Evolution_Theory
+
 ====== Reference ======
 
 U000
