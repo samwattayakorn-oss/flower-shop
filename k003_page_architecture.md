@@ -54,6 +54,20 @@ Module ใช้ Library
 
 Library ใช้ Knowledge
 
+====== Example ======
+
+Home Page
+
+Product Page
+
+Category Page
+
+Contact Page
+
+About Page
+
+Dashboard Page
+
 ====== Scope ======
 
 อธิบายเฉพาะโครงสร้างของหน้าเว็บ
