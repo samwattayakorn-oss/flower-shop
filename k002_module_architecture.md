@@ -1,19 +1,16 @@
 K002_Module_Architecture.md
 
 Module Architecture
-----------------------
 
-Purpose
+====== Purpose ======
 
 กำหนดมาตรฐานของ Module
------------------------
 
-Core Meaning
+====== Core Meaning ======
 
 Module คือหน่วยการทำงานที่สามารถแยก พัฒนา ทดสอบ และนำกลับมาใช้ซ้ำได้
-------------------------
 
-Structure
+====== Structure ======
 
 
 Definition
@@ -37,25 +34,22 @@ Process
 ↓
 
 Output
----------------------
 
-Relation
+====== Relation ======
 
 Module ถูกประกอบเป็น Page
 
 และถูกควบคุมโดย Module Library
-----------------------
 
-Scope
+====== Scope ======
 
 อธิบายโครงสร้างของ Module ทุกประเภท
------------------------
 
-Future Expansion
+====== Future Expansion ======
 
 รองรับ Module ทุกระบบ
-------------------------
-Reference
+
+====== Reference ======
 
 U000
 
@@ -64,5 +58,6 @@ U001
 U002
 
 U003
--------------------------
-Version 1.0
+
+====== Version ======
+1.0
