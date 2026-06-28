@@ -2,15 +2,15 @@ K016_Feedback_Theory.md
 
 Feedback Theory
 
-Purpose
+====== Purpose ======
 
 กำหนดหลักการเรียนรู้จากผลลัพธ์
 
-Core Meaning
+====== Core Meaning ======
 
 Feedback คือข้อมูลที่ย้อนกลับมาปรับปรุงระบบ
 
-Principle
+====== Principle ======
 
 Result
 
@@ -26,7 +26,7 @@ Analysis
 
 Improvement
 
-Relation
+====== Relation ======
 
 Evolution
 
@@ -38,7 +38,7 @@ Future Expansion
 
 Real-time Feedback
 
-Reference
+====== Reference ======
 
 U000
 
@@ -46,4 +46,5 @@ U002
 
 U007_UKS_Review_Process
 
-Version 1.0
+====== Version ======
+1.0
