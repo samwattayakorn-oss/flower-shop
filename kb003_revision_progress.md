@@ -8,7 +8,7 @@ Current Progress
 
 Architecture
 
-0 / 10 Complete
+1 / 10 Complete
 
 Theory
 
