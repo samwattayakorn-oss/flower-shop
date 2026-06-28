@@ -2,15 +2,15 @@ K009_Communication_Architecture.md
 
 Communication Architecture
 
-Purpose
+====== Purpose ======
 
 กำหนดมาตรฐานการสื่อสารของทุกองค์ประกอบในระบบ
 
-Core Meaning
+====== Core Meaning ======
 
 Communication คือการแลกเปลี่ยนข้อมูล ความหมาย และผลลัพธ์ระหว่างองค์ประกอบต่าง ๆ
 
-Structure
+====== Structure ======
 
 User
 
@@ -38,7 +38,7 @@ Result
 
 Feedback
 
-Relation
+====== Relation ======
 
 รองรับการสื่อสาร
 
@@ -52,11 +52,11 @@ Website ↔ Database
 
 Module ↔ Module
 
-Scope
+====== Scope ======
 
 กำหนดรูปแบบการสื่อสารทั้งหมด
 
-Future Expansion
+====== Future Expansion ======
 
 รองรับ API
 
@@ -66,7 +66,7 @@ Real-time
 
 Multi AI Communication
 
-Reference
+====== Reference ======
 
 U000
 
@@ -76,4 +76,5 @@ U002
 
 U005_UKS_Relation_Standard
 
-Version 1.0
+====== Version ======
+1.0
