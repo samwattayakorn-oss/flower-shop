@@ -6,6 +6,22 @@ Meaning Theory
 
 กำหนดความหมายของ "Meaning" ภายในระบบ
 
+====== Structure ======
+
+Data
+
+↓
+
+Condition
+
+↓
+
+Relation
+
+↓
+
+Meaning
+
 ====== Core Meaning ======
 
 Meaning คือคุณค่าที่เกิดจากการตีความข้อมูลภายใต้เงื่อนไขหนึ่ง
