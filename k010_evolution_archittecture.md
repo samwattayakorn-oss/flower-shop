@@ -48,6 +48,16 @@ Feedback
 
 Evolution
 
+====== Condition ======
+
+ต้องมีข้อมูลย้อนหลัง
+
+ต้องมีการวิเคราะห์ผลลัพธ์
+
+ต้องสามารถปรับปรุงได้
+
+ต้องเป็นไปตามมาตรฐาน UKS
+
 ====== Relation ======
 
 Evolution เชื่อมโยงกับทุกส่วนของระบบ
@@ -63,6 +73,18 @@ AI
 Database
 
 User
+
+====== Example ======
+
+Knowledge Evolution
+
+Module Evolution
+
+Website Evolution
+
+AI Evolution
+
+Database Evolution
 
 ====== Scope ======
 
