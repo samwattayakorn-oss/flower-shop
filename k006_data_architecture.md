@@ -2,15 +2,15 @@ K006_Data_Architecture.md
 
 Data Architecture
 
-Purpose
+====== Purpose ======
 
 กำหนดมาตรฐานของข้อมูลภายในระบบ
 
-Core Meaning
+====== Core Meaning ======
 
 Data คือหน่วยข้อมูลพื้นฐานที่ใช้สร้างความหมาย ความสัมพันธ์ และผลลัพธ์ของระบบ
 
-Structure
+====== Structure ======
 
 Raw Data
 
@@ -34,7 +34,7 @@ Decision
 
 Result
 
-Relation
+====== Relation ======
 
 Data เป็นพื้นฐานของ
 
@@ -46,11 +46,11 @@ AI
 
 Website
 
-Scope
+====== Scope ======
 
 กำหนดโครงสร้างข้อมูลทุกประเภท
 
-Future Expansion
+====== Future Expansion ======
 
 รองรับข้อมูลทุกชนิด เช่น
 
@@ -66,7 +66,7 @@ Sensor
 
 AI Output
 
-Reference
+====== Reference ======
 
 U000
 
@@ -74,4 +74,5 @@ U001
 
 U002
 
-Version 1.0
+====== Version ======
+1.0
