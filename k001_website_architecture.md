@@ -56,4 +56,14 @@ Future Expansion
 
 รองรับหลายเว็บไซต์ภายใต้มาตรฐานเดียวกัน
 
+Reference
+
+U000_UKS_Core
+
+U001_UKS_Architecture
+
+U002_UKS_Template
+
+U003_UKS_Naming_Convention
+
 Version 1.0
