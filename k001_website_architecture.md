@@ -2,7 +2,7 @@ K001_Website_Architecture.md
 
 Website Architecture
 
-======= Purpose ======
+====== Purpose ======
 
 กำหนดโครงสร้างภาพรวมของเว็บไซต์ทั้งหมด
 
