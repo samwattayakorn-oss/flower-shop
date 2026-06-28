@@ -10,6 +10,16 @@ Evolution Architecture
 
 Evolution คือกระบวนการที่ระบบเรียนรู้ วิเคราะห์ ปรับปรุง และพัฒนาตนเองจากผลลัพธ์ที่ผ่านมา
 
+====== Principle ======
+
+Evolution ต้องอาศัย Feedback
+
+Evolution ต้องสามารถวัดผลได้
+
+Evolution ต้องไม่ทำลายโครงสร้างเดิม
+
+Evolution ต้องพัฒนาอย่างต่อเนื่อง
+
 ====== Structure ======
 
 Knowledge
