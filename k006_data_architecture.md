@@ -66,6 +66,20 @@ AI
 
 Website
 
+====== Example ======
+
+Customer Data
+
+Product Data
+
+Order Data
+
+Media Data
+
+AI Output
+
+Knowledge Data
+
 ====== Scope ======
 
 กำหนดโครงสร้างข้อมูลทุกประเภท
