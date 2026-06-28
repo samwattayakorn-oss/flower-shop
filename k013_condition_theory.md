@@ -2,15 +2,15 @@ K013_Condition_Theory.md
 
 Condition Theory
 
-Purpose
+====== Purpose ======
 
 กำหนดบทบาทของเงื่อนไข
 
-Core Meaning
+====== Core Meaning ======
 
 Condition คือสิ่งที่กำหนดว่ากระบวนการหนึ่งสามารถเกิดขึ้นได้หรือไม่
 
-Principle
+====== Principle ======
 
 Condition
 
@@ -26,7 +26,7 @@ Process
 
 Result
 
-Relation
+====== Relation ======
 
 Condition ควบคุม
 
@@ -38,11 +38,11 @@ Decision
 
 Evolution
 
-Future Expansion
+====== Future Expansion ======
 
 Dynamic Condition
 
-Reference
+====== Reference ======
 
 U000
 
@@ -50,4 +50,5 @@ U002
 
 U006_UKS_Condition_Standard
 
-Version 1.0
+====== Version ======
+1.0
