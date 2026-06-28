@@ -76,6 +76,18 @@ Dashboard Page
 
 รองรับ Website ทุกประเภท
 
+====== Dependency ======
+
+U000_UKS_Core
+
+U001_UKS_Architecture
+
+U002_UKS_Template
+
+K001_Website_Architecture
+
+K002_Module_Architecture
+
 ====== Reference ======
 
 U000
