@@ -2,15 +2,15 @@ K004_AI_Architecture.md
 
 AI Architecture
 
-Purpose
+====== Purpose ======
 
 กำหนดแนวทางการทำงานร่วมกันของ AI
 
-Core Meaning
+====== Core Meaning ======
 
 AI ไม่ใช่เพียงผู้ตอบคำถาม แต่เป็นผู้ร่วมสร้าง ผู้ตรวจสอบ ผู้วิเคราะห์ และผู้พัฒนาระบบ
 
-Structure
+====== Structure ======
 
 Knowledge
 
@@ -34,7 +34,7 @@ Feedback
 
 Learning
 
-Relation
+====== Relation ======
 
 AI เชื่อมกับ
 
@@ -46,15 +46,15 @@ Database
 
 Human
 
-Scope
+====== Scope ======
 
 อธิบายสถาปัตยกรรมการทำงานของ AI
 
-Future Expansion
+====== Future Expansion ======
 
 รองรับ AI หลายตัวทำงานร่วมกัน
 
-Reference
+====== Reference ======
 
 U000
 
@@ -62,4 +62,5 @@ U001
 
 U002
 
-Version 1.0
+====== Version ======
+1.0
