@@ -38,6 +38,16 @@ Document
 
 3D
 
+====== Condition ======
+
+Media ต้องมี Metadata
+
+Media ต้องรองรับการแสดงผลหลายอุปกรณ์
+
+Media ต้องสามารถเชื่อมโยงกับ Module และ Website
+
+Media ต้องเป็นไปตามมาตรฐาน UKS
+
 ====== Relation ======
 
 Media เชื่อมกับ
