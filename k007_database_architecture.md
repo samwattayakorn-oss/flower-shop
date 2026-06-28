@@ -90,6 +90,16 @@ Cloud Database
 
 Distributed Database
 
+====== Dependency ======
+
+U000_UKS_Core
+
+U001_UKS_Architecture
+
+U002_UKS_Template
+
+K006_Data_Architecture
+
 ====== Reference ======
 
 U000
