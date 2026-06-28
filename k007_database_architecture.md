@@ -2,15 +2,15 @@ K007_Database_Architecture.md
 
 Database Architecture
 
-Purpose
+====== Purpose ======
 
 กำหนดมาตรฐานของฐานข้อมูล
 
-Core Meaning
+====== Core Meaning ======
 
 Database คือพื้นที่จัดเก็บข้อมูลอย่างเป็นระบบ เพื่อให้ค้นหา แก้ไข และเชื่อมโยงข้อมูลได้อย่างมีประสิทธิภาพ
 
-Structure
+====== Structure ======
 
 Database
 
@@ -30,7 +30,7 @@ Field
 
 Value
 
-Relation
+====== Relation ======
 
 Database เชื่อมต่อกับ
 
@@ -44,11 +44,11 @@ Library
 
 User
 
-Scope
+====== Scope ======
 
 รองรับฐานข้อมูลทั้งภายในและภายนอกระบบ
 
-Future Expansion
+====== Future Expansion ======
 
 รองรับ SQL
 
@@ -58,7 +58,7 @@ Cloud Database
 
 Distributed Database
 
-Reference
+====== Reference ======
 
 U000
 
@@ -66,4 +66,5 @@ U001
 
 U002
 
-Version 1.0
+====== Version ======
+1.0
