@@ -2,15 +2,15 @@ K018_Interpretation_Theory.md
 
 Interpretation Theory
 
-Purpose
+====== Purpose ======
 
 กำหนดหลักของการตีความ
 
-Core Meaning
+====== Core Meaning ======
 
 Interpretation คือการสร้าง Meaning จากข้อมูลภายใต้ Condition
 
-Principle
+====== Principle ======
 
 Data
 
@@ -26,7 +26,7 @@ Relation
 
 Meaning
 
-Relation
+====== Relation ======
 
 Meaning Theory
 
@@ -36,7 +36,7 @@ Future Expansion
 
 Multi Interpretation
 
-Reference
+====== Reference ======
 
 U000
 
@@ -46,4 +46,5 @@ U004
 
 U006
 
-Version 1.0
+======Version ======
+1.0
