@@ -36,6 +36,16 @@ Module
 
 Footer
 
+====== Condition ======
+
+ทุก Page ต้องมีวัตถุประสงค์ชัดเจน
+
+ทุก Module ภายใน Page ต้องทำงานร่วมกันได้
+
+Page ต้องสามารถเชื่อมโยงกับ Website ได้
+
+Page ต้องเป็นไปตามมาตรฐาน UKS
+
 ====== Relation ======
 
 Page ใช้ Module
