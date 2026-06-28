@@ -10,6 +10,16 @@ System Architecture
 
 System คือการรวม Website, AI, Module, Library, Database และผู้ใช้งานให้ทำงานเป็นระบบเดียว
 
+====== Principle ======
+
+System ต้องประกอบด้วยองค์ประกอบที่ทำงานร่วมกัน
+
+ทุกองค์ประกอบต้องมีหน้าที่ชัดเจน
+
+System ต้องสามารถขยายได้โดยไม่กระทบโครงสร้างหลัก
+
+System ต้องสอดคล้องกับมาตรฐาน UKS
+
 ====== Structure ======
 
 Knowledge Base
