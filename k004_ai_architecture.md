@@ -88,6 +88,18 @@ Management AI
 
 รองรับ AI หลายตัวทำงานร่วมกัน
 
+====== Dependency ======
+
+U000_UKS_Core
+
+U001_UKS_Architecture
+
+U002_UKS_Template
+
+K001_Website_Architecture
+
+K006_Data_Architecture
+
 ====== Reference ======
 
 U000
