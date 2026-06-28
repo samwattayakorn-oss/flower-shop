@@ -90,6 +90,18 @@ Streaming
 
 AI Generated Media
 
+====== Dependency ======
+
+U000_UKS_Core
+
+U001_UKS_Architecture
+
+U002_UKS_Template
+
+K006_Data_Architecture
+
+K007_Database_Architecture
+
 ====== Reference ======
 
 U000
