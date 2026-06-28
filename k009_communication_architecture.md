@@ -10,6 +10,16 @@ Communication Architecture
 
 Communication คือการแลกเปลี่ยนข้อมูล ความหมาย และผลลัพธ์ระหว่างองค์ประกอบต่าง ๆ
 
+====== Principle ======
+
+Communication ต้องมีมาตรฐานเดียวกัน
+
+Communication ต้องสามารถตรวจสอบได้
+
+Communication ต้องรองรับการขยายระบบ
+
+Communication ต้องรักษาความถูกต้องของข้อมูล
+
 ====== Structure ======
 
 User
