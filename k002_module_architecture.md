@@ -61,6 +61,20 @@ Module ถูกประกอบเป็น Page
 
 และถูกควบคุมโดย Module Library
 
+====== Example ======
+
+Identity Module
+
+Brand Module
+
+Search Module
+
+Product Module
+
+Customer Module
+
+Order Module
+
 ====== Scope ======
 
 อธิบายโครงสร้างของ Module ทุกประเภท
