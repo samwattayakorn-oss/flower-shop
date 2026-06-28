@@ -100,6 +100,16 @@ Sensor
 
 AI Output
 
+====== Dependency ======
+
+U000_UKS_Core
+
+U001_UKS_Architecture
+
+U002_UKS_Template
+
+K007_Database_Architecture
+
 ====== Reference ======
 
 U000
