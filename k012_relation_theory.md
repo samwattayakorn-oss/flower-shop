@@ -2,15 +2,15 @@ K012_Relation_Theory.md
 
 Relation Theory
 
-Purpose
+====== Purpose ======
 
 กำหนดหลักของความสัมพันธ์
 
-Core Meaning
+====== Core Meaning ======
 
 ไม่มีสิ่งใดดำรงอยู่โดยปราศจาก Relation
 
-Principle
+====== Principle ======
 
 Entity
 
@@ -26,7 +26,7 @@ Structure
 
 System
 
-Relation
+====== Relation ======
 
 เชื่อมทุกองค์ประกอบของระบบ
 
@@ -36,7 +36,7 @@ Relation Graph
 
 Knowledge Graph
 
-Reference
+====== Reference ======
 
 U000
 
@@ -44,4 +44,5 @@ U002
 
 U005_UKS_Relation_Standard
 
-Version 1.0
+====== Version ======
+1.0
