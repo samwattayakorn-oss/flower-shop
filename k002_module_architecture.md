@@ -49,6 +49,16 @@ Module ถูกประกอบเป็น Page
 
 รองรับ Module ทุกระบบ
 
+====== Dependency ======
+
+U000_UKS_Core
+
+U001_UKS_Architecture
+
+U002_UKS_Template
+
+K001_Website_Architecture
+
 ====== Reference ======
 
 U000
