@@ -2,15 +2,15 @@ K011_Meaning_Theory.md
 
 Meaning Theory
 
-Purpose
+====== Purpose ======
 
 กำหนดความหมายของ "Meaning" ภายในระบบ
 
-Core Meaning
+====== Core Meaning ======
 
 Meaning คือคุณค่าที่เกิดจากการตีความข้อมูลภายใต้เงื่อนไขหนึ่ง
 
-Principle
+====== Principle ======
 
 Data ไม่มี Meaning
 
@@ -20,7 +20,7 @@ Relation เกิดจาก Context
 
 Context เกิดจาก Condition
 
-Relation
+====== Relation ======
 
 Meaning เป็นศูนย์กลางของ
 
@@ -38,7 +38,7 @@ Meaning Network
 
 Semantic System
 
-Reference
+====== Reference ======
 
 U000
 
@@ -48,4 +48,5 @@ U004_UKS_Definition_Standard
 
 U006_UKS_Condition_Standard
 
-Version 1.0
+====== Version ======
+1.0
