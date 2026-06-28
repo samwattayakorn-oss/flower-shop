@@ -22,6 +22,16 @@ Relation
 
 Meaning
 
+====== Condition ======
+
+Meaning ต้องอาศัย Context
+
+Meaning ต้องอาศัย Relation
+
+Meaning ต้องสามารถอธิบายได้
+
+Meaning ต้องเป็นไปตามมาตรฐาน UKS
+
 ====== Core Meaning ======
 
 Meaning คือคุณค่าที่เกิดจากการตีความข้อมูลภายใต้เงื่อนไขหนึ่ง
@@ -53,6 +63,22 @@ Future Expansion
 Meaning Network
 
 Semantic System
+
+====== Example ======
+
+ข้อความ
+
+ภาพ
+
+สัญลักษณ์
+
+ข้อมูล
+
+เมื่ออยู่ต่าง Context จะเกิด Meaning ต่างกัน
+
+====== Scope ======
+
+อธิบายหลักการของ Meaning ภายในระบบทั้งหมด
 
 ====== Reference ======
 
