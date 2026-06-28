@@ -2,15 +2,15 @@ K017_Observation_Theory.md
 
 Observation Theory
 
-Purpose
+====== Purpose ======
 
 กำหนดหลักของการสังเกต
 
-Core Meaning
+====== Core Meaning ======
 
 Observation คือการรับรู้สถานะของระบบโดยไม่เปลี่ยนความหมายของข้อมูล
 
-Principle
+====== Principle ======
 
 Observation
 
@@ -22,7 +22,7 @@ Evidence
 
 Interpretation
 
-Relation
+====== Relation ======
 
 AI
 
@@ -30,11 +30,11 @@ Human
 
 Knowledge
 
-Future Expansion
+====== Future Expansion ======
 
 Multi Observer
 
-Reference
+====== Reference ======
 
 U000
 
@@ -42,4 +42,5 @@ U002
 
 U007
 
-Version 1.0
+====== Version ======
+1.0
