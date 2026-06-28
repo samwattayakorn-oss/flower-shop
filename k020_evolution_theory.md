@@ -2,15 +2,15 @@ K020_Evolution_Theory.md
 
 Evolution Theory
 
-Purpose
+====== Purpose ======
 
 กำหนดหลักของวิวัฒนาการของระบบ
 
-Core Meaning
+====== Core Meaning ======
 
 Evolution คือการเปลี่ยนแปลงอย่างต่อเนื่องจาก Feedback และ Knowledge เพื่อให้ระบบเหมาะสมกับสภาพแวดล้อมมากขึ้น
 
-Principle
+====== Principle ======
 
 Knowledge
 
@@ -30,17 +30,17 @@ Evolution
 
 New Knowledge
 
-Relation
+====== Relation ======
 
 เชื่อมโยงทุก Theory ใน K011-K019
 
-Future Expansion
+====== Future Expansion ======
 
 Self Evolution
 
 Collective Evolution
 
-Reference
+====== Reference ======
 
 U000
 
@@ -52,4 +52,5 @@ U007
 
 U008_UKS_Version_Control
 
-Version 1.0
+====== Version ======
+1.0
