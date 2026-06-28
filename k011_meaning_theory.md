@@ -38,4 +38,14 @@ Meaning Network
 
 Semantic System
 
+Reference
+
+U000
+
+U002
+
+U004_UKS_Definition_Standard
+
+U006_UKS_Condition_Standard
+
 Version 1.0
