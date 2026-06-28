@@ -10,6 +10,16 @@ Page Architecture
 
 Page คือการรวม Module หลายตัวเพื่อสร้างหน้าที่สมบูรณ์
 
+====== Principle ======
+
+Page ต้องประกอบจาก Module
+
+Page ต้องสามารถปรับเปลี่ยน Module ได้โดยไม่กระทบโครงสร้างหลัก
+
+Page ต้องรองรับการขยายในอนาคต
+
+Page ต้องสอดคล้องกับมาตรฐาน Website
+
 ====== Structure ======
 
 Header
