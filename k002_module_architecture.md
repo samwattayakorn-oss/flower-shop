@@ -45,6 +45,16 @@ Process
 
 Output
 
+====== Condition ======
+
+Module ต้องมี Input และ Output ที่ชัดเจน
+
+Module ต้องไม่ขึ้นต่อกันโดยตรงเกินความจำเป็น
+
+Module ต้องสามารถพัฒนา ทดสอบ และปรับปรุงแยกจากกันได้
+
+Module ต้องเป็นไปตามมาตรฐาน UKS
+
 ====== Relation ======
 
 Module ถูกประกอบเป็น Page
