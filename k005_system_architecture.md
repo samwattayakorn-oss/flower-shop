@@ -2,15 +2,15 @@ K005_System_Architecture.md
 
 System Architecture
 
-Purpose
+====== Purpose ======
 
 กำหนดภาพรวมของระบบทั้งหมด
 
-Core Meaning
+====== Core Meaning ======
 
 System คือการรวม Website, AI, Module, Library, Database และผู้ใช้งานให้ทำงานเป็นระบบเดียว
 
-Structure
+====== Structure ======
 
 Knowledge Base
 
@@ -46,19 +46,19 @@ Feedback
 
 Evolution
 
-Relation
+====== Relation ======
 
 System เป็นระดับสูงสุดของโครงการ
 
-Scope
+====== Scope ======
 
 อธิบายความสัมพันธ์ของทุกองค์ประกอบในระบบ
 
-Future Expansion
+====== Future Expansion ======
 
 รองรับการขยายเป็นหลายเว็บไซต์ หลาย AI และหลายธุรกิจ ภายใต้มาตรฐานเดียวกัน
 
-Reference
+====== Reference ======
 
 U000
 
@@ -66,4 +66,5 @@ U001
 
 U002
 
-Version 1.0
+====== Version ======
+1.0
