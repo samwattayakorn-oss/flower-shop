@@ -2,15 +2,15 @@ K010_Evolution_Architecture.md
 
 Evolution Architecture
 
-Purpose
+====== Purpose ======
 
 กำหนดหลักการพัฒนาระบบอย่างต่อเนื่อง
 
-Core Meaning
+====== Core Meaning ======
 
 Evolution คือกระบวนการที่ระบบเรียนรู้ วิเคราะห์ ปรับปรุง และพัฒนาตนเองจากผลลัพธ์ที่ผ่านมา
 
-Structure
+====== Structure ======
 
 Knowledge
 
@@ -38,7 +38,7 @@ Feedback
 
 Evolution
 
-Relation
+====== Relation ======
 
 Evolution เชื่อมโยงกับทุกส่วนของระบบ
 
@@ -54,11 +54,11 @@ Database
 
 User
 
-Scope
+====== Scope ======
 
 กำหนดแนวทางการเติบโตของระบบทั้งในด้านโครงสร้างและการทำงาน
 
-Future Expansion
+====== Future Expansion ======
 
 รองรับ
 
@@ -70,7 +70,7 @@ Adaptive System
 
 Continuous Evolution
 
-Reference
+====== Reference ======
 
 U000
 
@@ -80,4 +80,5 @@ U002
 
 U006_UKS_Condition_Standard
 
-Version 1.0
+====== Version ======
+1.0
