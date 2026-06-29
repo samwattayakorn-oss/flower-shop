@@ -10,7 +10,17 @@ Relation Theory
 
 ไม่มีสิ่งใดดำรงอยู่โดยปราศจาก Relation
 
-====== constructor
+====== structure ======
+
+Entity
+
+↓
+
+Relation
+
+↓
+
+Structure
 
 ====== Principle ======
 
