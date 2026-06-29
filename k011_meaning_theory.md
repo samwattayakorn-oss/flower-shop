@@ -60,12 +60,6 @@ Decision
 
 Evolution
 
-Future Expansion
-
-Meaning Network
-
-Semantic System
-
 ====== Example ======
 
 ข้อความ
@@ -81,6 +75,22 @@ Semantic System
 ====== Scope ======
 
 อธิบายหลักการของ Meaning ภายในระบบทั้งหมด
+
+====== Future Expansion ======
+
+Meaning Network
+
+Semantic System
+
+====== Dependency ======
+
+U000_UKS_Core
+
+U002_UKS_Template
+
+K012_Relation_Theory
+
+K013_Condition_Theory
 
 ====== Reference ======
 
