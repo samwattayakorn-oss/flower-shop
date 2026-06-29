@@ -64,6 +64,20 @@ Decision
 
 Evolution
 
+====== Example ======
+
+If / Else
+
+Business Rule
+
+System Constraint
+
+Access Permission
+
+Environment Condition
+
+Input Validation
+
 ====== Future Expansion ======
 
 Dynamic Condition
