@@ -42,6 +42,16 @@ Process
 
 Result
 
+====== Condition ======
+
+Condition ต้องสามารถระบุได้อย่างชัดเจน
+
+Condition ต้องสามารถตรวจสอบได้
+
+Condition ต้องสามารถเปลี่ยนแปลงตามบริบทได้
+
+Condition ต้องเป็นไปตามมาตรฐาน UKS
+
 ====== Relation ======
 
 Condition ควบคุม
