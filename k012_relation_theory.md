@@ -59,6 +59,10 @@ Website ↔ Database
 
 Module ↔ Module
 
+====== Scope ======
+
+อธิบายหลักการของ Relation ภายในระบบทั้งหมด
+
 ====== Future Expansion ======
 
 Relation Graph
