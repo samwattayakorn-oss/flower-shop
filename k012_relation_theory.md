@@ -38,6 +38,14 @@ Structure
 
 System
 
+Relation ต้องเกิดระหว่าง Entity อย่างน้อยสองส่วน
+
+Relation ต้องสามารถอธิบายได้
+
+Relation ต้องตรวจสอบได้
+
+Relation ต้องเป็นไปตาม UKS
+
 ====== Relation ======
 
 เชื่อมทุกองค์ประกอบของระบบ
