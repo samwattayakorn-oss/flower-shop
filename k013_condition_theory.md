@@ -78,6 +78,10 @@ Environment Condition
 
 Input Validation
 
+====== Scope ======
+
+อธิบายหลักการของ Condition ภายในระบบทั้งหมด รวมถึงเงื่อนไขที่ใช้กำหนดการทำงาน การตัดสินใจ และความสัมพันธ์ขององค์ประกอบต่าง ๆ
+
 ====== Future Expansion ======
 
 Dynamic Condition
