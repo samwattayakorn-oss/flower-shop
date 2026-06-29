@@ -38,6 +38,8 @@ Structure
 
 System
 
+====== Condition ======
+
 Relation ต้องเกิดระหว่าง Entity อย่างน้อยสองส่วน
 
 Relation ต้องสามารถอธิบายได้
