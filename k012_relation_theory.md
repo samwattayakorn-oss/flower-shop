@@ -52,7 +52,14 @@ Relation ต้องเป็นไปตาม UKS
 
 เชื่อมทุกองค์ประกอบของระบบ
 
-Future Expansion
+====== Example ======
+Human ↔ AI
+
+Website ↔ Database
+
+Module ↔ Module
+
+====== Future Expansion ======
 
 Relation Graph
 
