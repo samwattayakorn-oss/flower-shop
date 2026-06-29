@@ -86,6 +86,18 @@ Input Validation
 
 Dynamic Condition
 
+====== Dependency ======
+
+U000_UKS_Core
+
+U002_UKS_Template
+
+U006_UKS_Condition_Standard
+
+K011_Meaning_Theory
+
+K012_Relation_Theory
+
 ====== Reference ======
 
 U000
