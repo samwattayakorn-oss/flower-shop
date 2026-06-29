@@ -10,6 +10,22 @@ Condition Theory
 
 Condition คือสิ่งที่กำหนดว่ากระบวนการหนึ่งสามารถเกิดขึ้นได้หรือไม่
 
+====== Structure ======
+
+Condition
+
+↓
+
+Possibility
+
+↓
+
+Process
+
+↓
+
+Result
+
 ====== Principle ======
 
 Condition
